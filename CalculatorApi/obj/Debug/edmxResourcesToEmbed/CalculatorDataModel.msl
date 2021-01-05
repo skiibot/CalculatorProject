@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CalculatorModelStoreContainer" CdmEntityContainer="CalculatorContext">
+    <EntitySetMapping Name="Logs">
+      <EntityTypeMapping TypeName="CalculatorModel.Log">
+        <MappingFragment StoreEntitySet="Logs">
+          <ScalarProperty Name="logs_id" ColumnName="logs_id" />
+          <ScalarProperty Name="logs_date" ColumnName="logs_date" />
+          <ScalarProperty Name="logs_time" ColumnName="logs_time" />
+          <ScalarProperty Name="logs_content" ColumnName="logs_content" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
