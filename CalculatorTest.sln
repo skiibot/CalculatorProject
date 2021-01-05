@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApi", "..\CalculatorApi\CalculatorApi.csproj", "{ED8D1698-7D1F-4D97-90F5-9179FE1FF9DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApi", "CalculatorApi\CalculatorApi.csproj", "{ED8D1698-7D1F-4D97-90F5-9179FE1FF9DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "..\CalculatorTests.csproj", "{BA90D975-49D3-49F2-8635-C875E904515F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "CalculatorTests.csproj", "{BA90D975-49D3-49F2-8635-C875E904515F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcConsoleApplication2", "CalcConsoleApplication2\CalcConsoleApplication2.csproj", "{F9814D4A-5730-41BB-80CA-829E158B5A0C}"
 EndProject
