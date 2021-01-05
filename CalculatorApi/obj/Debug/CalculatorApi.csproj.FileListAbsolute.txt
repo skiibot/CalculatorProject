@@ -16,3 +16,16 @@ C:\Users\ray-m\Documents\CapitaTask\CalculatorApi\bin\Debug\Newtonsoft.Json.dll
 C:\Users\ray-m\Documents\CapitaTask\CalculatorApi\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\ray-m\Documents\CapitaTask\CalculatorApi\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ray-m\Documents\CapitaTask\CalculatorApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\bin\Debug\CalculatorApi.dll.config
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\bin\Debug\CalculatorApi.dll
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\bin\Debug\CalculatorApi.pdb
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\bin\Debug\EntityFramework.xml
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\obj\Debug\CalculatorApi.csprojAssemblyReference.cache
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\obj\Debug\CalculatorApi.csproj.CoreCompileInputs.cache
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\obj\Debug\CalculatorApi.csproj.CopyComplete
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\obj\Debug\CalculatorApi.dll
+C:\Users\ray-m\Documents\CapitaTask\CalculatorTest\CalculatorApi\obj\Debug\CalculatorApi.pdb

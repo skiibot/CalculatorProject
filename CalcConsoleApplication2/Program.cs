@@ -68,7 +68,7 @@ namespace CalcConsoleApplication2
             Console.WriteLine($"Second number Chosen: {int2}");
 
             Task<int> ans;
-            if (usedOperator == "+") ans = calc.Add(int1, int2); 
+            if (usedOperator == "+") ans = calc.Add(int1, int2);
             else if (usedOperator == "-") ans = calc.Subtract(int1, int2);
             else if (usedOperator == "*") ans = calc.Multiply(int1, int2);
             else ans = calc.Divide(int1, int2);
